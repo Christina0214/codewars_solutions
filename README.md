@@ -1,0 +1,2 @@
+-This repository contains my solutions to a few beginner-level Codewars katas (Python).
+-Each function solves a specific problem such as determining even/odd numbers, converting numbers to strings, removing spaces, and counting vowels.
